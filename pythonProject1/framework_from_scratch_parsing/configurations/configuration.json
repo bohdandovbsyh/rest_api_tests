@@ -1,8 +1,0 @@
-{
-  "base_url": "https://admin-demo.nopcommerce.com",
-  "user_name": "admin@yourstore.com",
-  "password": "admin",
-  "browser_id": "1",
-  "is_headless": "True",
-  "debug_mode": "False"
-}
